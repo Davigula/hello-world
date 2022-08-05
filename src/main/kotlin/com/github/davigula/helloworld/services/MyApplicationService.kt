@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.davigula.helloworld.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.davigula.helloworld.MyBundle
 
 class MyApplicationService {
 
